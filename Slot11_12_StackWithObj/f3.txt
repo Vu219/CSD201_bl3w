@@ -1,0 +1,2 @@
+02 | Binh | 17 | 8.5      02 | Binh | 21 | 8.5      02 | Binh | 20 | 8.5      02 | Binh | 19 | 8.5      02 | Binh | 18 | 8.5      
+Average GPA: 8.5
